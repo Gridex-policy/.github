@@ -6,7 +6,7 @@
 
 | 저장소 | 소개 |
 |---|---|
-| [EnergyFixedBidding](https://github.com/Gridex-policy/EnergyFixedBidding) | 재생에너지 고정가격 입찰제도 해설 |
+| [EnergyFixedBidding](https://github.com/Gridex-policy/EnergyFixedBidding) · [사이트](https://gridex-policy.github.io/EnergyFixedBidding/) | 재생에너지 고정가격 입찰제도 해설 |
 
 ## GRIDEX 조직 안내
 
